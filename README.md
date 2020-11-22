@@ -4,7 +4,7 @@
 This is about creating a newsletter for subscribing to learning how to code.
 
 ## Image
-![welcome interface.](/assets/images/landing.jpg)
+![welcome interface.](./assets/images/landing.jpg)
 
 ## Built With
 * CSS

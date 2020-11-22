@@ -1,11 +1,10 @@
 # Newsletter
 
 ## About the project
-This is about creating a card describing an animal named clownfish, 
-this template canalso beadopted to create a website giving description to anything at all
+This is about creating a newsletter for subscribing to learning how to code.
 
 ## Image
-![welcome interface.](./assets/images/fish.png)
+![welcome interface.](/assets/images/landing.jpg)
 
 ## Built With
 * CSS
@@ -24,7 +23,6 @@ this template canalso beadopted to create a website giving description to anythi
 * [Godwin Nwachukwu](https://github.com/Gnwin).
 
 * [Chioma Nwachukwu](https://github.com/Chiomy).
-* [Tim Chosen](www.twitter.com/timchosen)
 
 ## Acknowledgements
 * [HomeFrontStartup](http://homefrontstartup.com.ng)
@@ -39,8 +37,7 @@ this template canalso beadopted to create a website giving description to anythi
 ## 🤝 Contributions
 * This project is open to your comments and contributions, kindly reach the author through the above author's social media handles.
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/8f12525b-00e5-452e-8b16-77c03b13fb9c/deploy-status)](https://app.netlify.com/sites/ezekiel-esther-animal-card/deploys)
-
+[![Netlify Status](https://api.netlify.com/api/v1/badges/de5e1898-96ce-45cd-b6fb-dbf8c1c1e23b/deploy-status)](https://app.netlify.com/sites/eminentezekiel-newsletter/deploys)
 
 
 

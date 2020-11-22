@@ -11,20 +11,10 @@ body {
   margin: 7rem 3rem 0 3rem;
 }
 
-.container-text {
-  /* margin-left: 3rem; */
-
-}
-
-.container-form {
-  /* margin-right: 3rem; */
-}
-
 .title {
   font-size: 3em;
   padding-top: 6rem;
 }
-
 
 .form-container {
   background: #fff;
@@ -43,7 +33,6 @@ body {
   margin-bottom: 1rem;
   background-color: #5D54A3;
 }
-
 
 input {
   border: 1px solid black;

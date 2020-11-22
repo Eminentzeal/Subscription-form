@@ -8,11 +8,23 @@ body {
 .container {
   display: flex;
   grid-gap: 2rem;
+  margin: 7rem 3rem 0 3rem;
+}
+
+.container-text {
+  /* margin-left: 3rem; */
+
+}
+
+.container-form {
+  /* margin-right: 3rem; */
 }
 
 .title {
   font-size: 3em;
+  padding-top: 6rem;
 }
+
 
 .form-container {
   background: #fff;
@@ -20,17 +32,47 @@ body {
   border-radius: 5px;
 }
 
-input {
-  border: 1px solid black;
-  width: 100%;
-  border-radius: 5px;
-
-}
-
-.a {
+.form-text {
   width: 100%;
   background: red;
   display: inline-block;
   text-align: center;
   border-radius: 5px;
+  font-size: 0.7rem;
+  padding: 1rem;
+  margin-bottom: 1rem;
+  background-color: #5D54A3;
+}
+
+
+input {
+  border: 1px solid black;
+  width: 100%;
+  border-radius: 5px;
+  padding: 1rem;
+  margin-bottom: 1rem;
+
+}
+
+.button {
+  width: 100%;
+  background: #37CC8A;
+  display: inline-block;
+  text-align: center;
+  font-size: 0.7rem;
+  border-radius: 5px;
+  padding: 1rem;
+  color: #fff;
+  font-weight: 800;
+}
+
+.form-buttom-text{
+  color: #000;
+  font-size: 0.7em;
+  text-align: center;
+  padding-top: 2rem;
+}
+
+span {
+  color: #ff0000;
 }

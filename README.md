@@ -1,7 +1,7 @@
 # Subscription-form
 
 ## About the project
-This is about creating a newsletter for subscribing to learning how to code.
+This is about creating a form with which a user can subscribe to learn to code
 
 ## Image
 ![welcome interface.](./assets/images/landing.jpg)

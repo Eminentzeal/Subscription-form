@@ -1,4 +1,4 @@
-# Newsletter
+# Subscription-form
 
 ## About the project
 This is about creating a newsletter for subscribing to learning how to code.
